@@ -1,0 +1,8 @@
+C:\Users\Aga\documents\visual studio 2010\Projects\Piłkarski quiz - interfejs\Piłkarski quiz - interfejs\bin\Debug\Piłkarski quiz - interfejs.exe
+C:\Users\Aga\documents\visual studio 2010\Projects\Piłkarski quiz - interfejs\Piłkarski quiz - interfejs\bin\Debug\Piłkarski quiz - interfejs.pdb
+C:\Users\Aga\documents\visual studio 2010\Projects\Piłkarski quiz - interfejs\Piłkarski quiz - interfejs\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aga\documents\visual studio 2010\Projects\Piłkarski quiz - interfejs\Piłkarski quiz - interfejs\obj\x86\Debug\Piłkarski quiz - interfejs.csproj.GenerateResource.Cache
+C:\Users\Aga\documents\visual studio 2010\Projects\Piłkarski quiz - interfejs\Piłkarski quiz - interfejs\obj\x86\Debug\Piłkarski quiz - interfejs.exe
+C:\Users\Aga\documents\visual studio 2010\Projects\Piłkarski quiz - interfejs\Piłkarski quiz - interfejs\obj\x86\Debug\Piłkarski quiz - interfejs.pdb
+C:\Users\Aga\Documents\Visual Studio 2010\Projects\Piłkarski quiz - interfejs\Piłkarski quiz - interfejs\obj\x86\Debug\Piłkarski quiz - interfejs.csprojResolveAssemblyReference.cache
+C:\Users\Aga\Documents\Visual Studio 2010\Projects\Piłkarski quiz - interfejs\Piłkarski quiz - interfejs\obj\x86\Debug\Milionerzy.Form1.resources
